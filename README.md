@@ -2,7 +2,7 @@
 
 This repository contains the files needed to recreate the results contained in:
 
-Marshall, D. J., Bode, M., Mangel, M., Arlinghaus, R., & Dick, E. J. (2021). Reproductive hyperallometry and managing the world’s fisheries. *Proceedings of the National Academy of Sciences, 118(34).*
+Marshall, D. J., Bode, M., Mangel, M., Arlinghaus, R., & Dick, E. J. (2021). Reproductive hyperallometry and managing the world’s fisheries. *Proceedings of the National Academy of Sciences*, **118**(34).
 
 [* Note that not all files are yet uploaded *]
 
